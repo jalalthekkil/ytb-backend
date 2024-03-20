@@ -1,0 +1,16 @@
+{
+  "name": "ytb-backend",
+  "version": "1.0.0",
+  "description": "Nothing new",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "js",
+    "backend"
+  ],
+  "author": "Jalal",
+  "license": "ISC"
+}
